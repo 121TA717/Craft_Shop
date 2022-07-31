@@ -16,6 +16,9 @@
 ### 主な利用シーン
 クラフトバンド商品の購入ができる。
 
+### 実装機能リスト
+https://docs.google.com/spreadsheets/d/16Jh0pD_9TymKx632oJm_mXAL8s9phfK7Q2m8IrU-rJ4/edit#gid=375590402
+
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
